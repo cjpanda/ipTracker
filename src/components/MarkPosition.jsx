@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useEffect, useMemo } from "react";
 import { Marker, Popup, useMap } from "react-leaflet";
-import Icon from "./Icon";
+import icon from "./Icon";
 
 const MarkPosition = ({ address }) => {
   const position = useMemo(() => {
@@ -15,7 +15,7 @@ const MarkPosition = ({ address }) => {
     });
   }, [map, position]);
   return (
-    <Marker icon={Icon} position={position}>
+    <Marker icon={icon} position={position}>
       <Popup>This is the location of the IP Address or Domain</Popup>
     </Marker>
   );
