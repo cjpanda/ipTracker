@@ -1,6 +1,6 @@
 # React + Vite
 
-## This is my Submitted project for [FrontendMentor](https://www.frontendmentor.io/profile/cjpanda) Challenges.
+## This is my submitted project for [FrontendMentor](https://www.frontendmentor.io/profile/cjpanda) challenges.
 ## Live Demo : https://ip-tracker-kpjf.vercel.app/
 ## Tech Stack: ViteJS, React TailwindCSS , Leafletjs
 ## Web APIS: Leaflet for the Maps and IP Geolocation API for the Location API
