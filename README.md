@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This is a project from the [FrontendMentor](https://www.frontendmentor.io/profile/cjpanda)
+## Tech Stack: ViteJS, React TailwindCSS , Leafletjs
+## Web APIS: Leaflet for the Maps and IP Geolocation API for the Location API
+![Screenshot (148)](https://github.com/cjpanda/ipTracker/assets/107156444/295e74b5-6764-4b13-a487-6b8fba0ef197)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
